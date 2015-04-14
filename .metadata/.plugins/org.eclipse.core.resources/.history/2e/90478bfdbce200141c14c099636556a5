@@ -1,0 +1,5 @@
+object test {
+	val f: PatrialFunction[String, String] = { case "ping" => "pong" }
+	f("ping")
+	f("foo")
+}

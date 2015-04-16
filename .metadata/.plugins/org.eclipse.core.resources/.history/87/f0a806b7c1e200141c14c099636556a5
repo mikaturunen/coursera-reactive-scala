@@ -1,3 +1,0 @@
-object TreeGenerator {
-  println("Welcome to the Scala worksheet")
-}
